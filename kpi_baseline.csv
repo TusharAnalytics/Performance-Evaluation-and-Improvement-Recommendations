@@ -1,0 +1,13 @@
+kpi,current,benchmark,target_12m,unit,status
+Perfect Order Rate,87,95,92,%,Critical
+OTIF,84,95,91,%,Critical
+Fill Rate,93,97,96,%,Watch
+Forecast Accuracy,68,80,76,%,Critical
+Supplier On-Time Delivery,82,93,90,%,Critical
+Order Cycle Time,6.8,4.0,5.0,days,Critical
+Inventory Turnover,5.2,8.0,7.0,x,Critical
+Days of Inventory,70,46,52,days,Critical
+Cash-to-Cash Cycle,62,40,50,days,Critical
+Logistics Cost,11.5,8.5,9.5,% of sales,Critical
+Order Picking Accuracy,98.4,99.0,99.0,%,Strong
+Return Rate,4.1,3.0,3.3,%,Watch
